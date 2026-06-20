@@ -1,0 +1,16 @@
+job_role,skills
+Data Scientist,Python Machine Learning Statistics SQL Data Analysis TensorFlow NumPy Pandas Jupyter Matplotlib Scikit-Learn Research
+Machine Learning Engineer,Python TensorFlow PyTorch Machine Learning Deep Learning MLOps Docker NumPy Pandas Algorithms Model Deployment
+Data Analyst,SQL Excel Power BI Tableau Data Visualization Statistics Python Pandas R Reporting Business Intelligence
+Backend Developer,Python Java Django REST APIs SQL PostgreSQL Node.js Microservices Git Flask Authentication
+Frontend Developer,JavaScript React HTML CSS TypeScript REST APIs Git Figma Vue Responsive Design UI UX
+Full Stack Developer,JavaScript React Python Node.js SQL REST APIs Git HTML CSS Docker MongoDB PostgreSQL
+DevOps Engineer,Docker Kubernetes AWS CI/CD Linux Terraform Jenkins Git Bash Ansible Monitoring Infrastructure
+Cloud Engineer,AWS Azure GCP Cloud Terraform Kubernetes Docker DevOps Networking Security Cost Optimization
+Cybersecurity Analyst,Network Security Linux Python Firewalls Penetration Testing Cryptography SIEM Bash Vulnerability Assessment
+Mobile Developer,Flutter Dart React Native JavaScript Swift Kotlin REST APIs Git Firebase Push Notifications
+AI Engineer,Python Machine Learning Deep Learning NLP LLMs TensorFlow PyTorch Docker APIs Prompt Engineering
+Data Engineer,Python SQL Apache Spark Kafka ETL AWS Hadoop Airflow Databricks Pipeline Orchestration
+Systems Administrator,Linux Windows Server Networking Active Directory Bash PowerShell Monitoring Security Backup
+Software Architect,System Design Microservices Docker Kubernetes Design Patterns Java Python AWS CI/CD Scalability
+NLP Engineer,Python NLP Machine Learning TensorFlow PyTorch LLMs BERT Text Processing Transformers Hugging Face
