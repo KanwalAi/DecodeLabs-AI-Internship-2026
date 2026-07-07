@@ -143,10 +143,15 @@ Received an official **Letter of Recommendation** from DecodeLabs in recognition
 ## 👩‍💻 Author
 
 **Kanwal Fatima**
+
 BS Artificial Intelligence Student
+
 Passionate about building intelligent systems that combine AI, robotics, computer vision, and embedded technologies.
+
 📧 kanwal.ai.pk@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/kanwal-fatima-72a352357/
+
 🐙 GitHub: https://github.com/KanwalAi
 
 ---
