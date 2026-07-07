@@ -7,6 +7,8 @@ A complete portfolio of 4 hands-on AI projects built during the **DecodeLabs AI 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Internship-Completed-success)
 ![Projects](https://img.shields.io/badge/Projects-4%2F4-brightgreen)
+![Certificate](https://img.shields.io/badge/Certificate-Verified-blue)
+![Recommendation](https://img.shields.io/badge/Recommendation-Received-success)
 
 ---
 
@@ -17,7 +19,8 @@ A complete portfolio of 4 hands-on AI projects built during the **DecodeLabs AI 
 | 1 | [Rule-Based AI Chatbot](./Project1_RuleBased_Chatbot) | Control flow & decision logic | Python, Dictionaries |
 | 2 | [Data Classification](./Project2_Data_Classification) | Supervised learning (KNN) | Scikit-Learn, Iris Dataset |
 | 3 | [AI Recommendation Logic](./Project3_Recommendation_System) | Content-based filtering | TF-IDF, Cosine Similarity |
-| 4 | [Image & Text Recognition](./Project4_Image_Text_Recognition) | Computer vision & OCR | OpenCV, Tesseract, MobileNet-SSD |
+| 4 | [Image & Text Recognition](./Project4_Image_Text_Recognition) | Computer vision & OCR | OpenCV, Tesseract, MobileNet-
+SSD |
 
 ---
 
