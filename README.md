@@ -118,13 +118,36 @@ Each milestone builds directly on the last — from teaching a machine to follow
 
 ---
 
+# 🏆 Recognition
+
+The successful completion of this internship is recognized through the following official documents issued by **DecodeLabs**.
+
+### 📜 AI Engineering Internship Certificate
+
+Successfully completed the **AI Engineering Internship (Batch 2026)**, demonstrating practical skills in Artificial Intelligence through four hands-on projects covering rule-based systems, machine learning, recommendation systems, and computer vision.
+
+📄 **View Certificate:**  
+[AI Engineering Internship Certificate](./documents/AI_Engineering_Internship_Certificate.pdf)
+
+---
+
+### 💼 Letter of Recommendation
+
+Received an official **Letter of Recommendation** from DecodeLabs in recognition of my dedication, technical performance, and successful completion of the internship program.
+
+📄 **View Recommendation Letter:**  
+[Letter of Recommendation](./documents/DecodeLabs_Recommendation_Letter.pdf)
+
+---
+
 ## 👩‍💻 Author
 
 **Kanwal Fatima**
-AI Student | Software Developer
+BS Artificial Intelligence Student
+Passionate about building intelligent systems that combine AI, robotics, computer vision, and embedded technologies.
 📧 kanwal.ai.pk@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/kanwal-fatima-72a352357/)
-🐙 [GitHub](https://github.com/KanwalAi)
+🔗 LinkedIn: https://www.linkedin.com/in/kanwal-fatima-72a352357/
+🐙 GitHub: https://github.com/KanwalAi
 
 ---
 
